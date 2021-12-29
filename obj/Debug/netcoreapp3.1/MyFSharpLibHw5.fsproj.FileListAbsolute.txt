@@ -1,0 +1,8 @@
+C:\Users\aryan\source\repos\MyFSharpLibHw5\MyFSharpLibHw5\obj\Debug\netcoreapp3.1\MyFSharpLibHw5.fsprojAssemblyReference.cache
+C:\Users\aryan\source\repos\MyFSharpLibHw5\MyFSharpLibHw5\obj\Debug\netcoreapp3.1\MyFSharpLibHw5.AssemblyInfoInputs.cache
+C:\Users\aryan\source\repos\MyFSharpLibHw5\MyFSharpLibHw5\obj\Debug\netcoreapp3.1\MyFSharpLibHw5.AssemblyInfo.fs
+C:\Users\aryan\source\repos\MyFSharpLibHw5\MyFSharpLibHw5\bin\Debug\netcoreapp3.1\MyFSharpLibHw5.deps.json
+C:\Users\aryan\source\repos\MyFSharpLibHw5\MyFSharpLibHw5\bin\Debug\netcoreapp3.1\MyFSharpLibHw5.dll
+C:\Users\aryan\source\repos\MyFSharpLibHw5\MyFSharpLibHw5\bin\Debug\netcoreapp3.1\MyFSharpLibHw5.pdb
+C:\Users\aryan\source\repos\MyFSharpLibHw5\MyFSharpLibHw5\obj\Debug\netcoreapp3.1\MyFSharpLibHw5.dll
+C:\Users\aryan\source\repos\MyFSharpLibHw5\MyFSharpLibHw5\obj\Debug\netcoreapp3.1\MyFSharpLibHw5.pdb

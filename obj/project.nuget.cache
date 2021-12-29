@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "D10sqcHB0UFXFdqTqdY0UPPC4M/H2jRomR73GU+Awtqckb75ZXpH4/n+WE0QTyO6Gp5QTIGE5Rr7YYh5eReBtw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aryan\\source\\repos\\MyFSharpLibHw5\\MyFSharpLibHw5\\MyFSharpLibHw5.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aryan\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\fsharp.data\\4.1.0\\fsharp.data.4.1.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\aryan\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
